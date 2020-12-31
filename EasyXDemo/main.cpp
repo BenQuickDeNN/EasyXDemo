@@ -7,6 +7,7 @@ int main()
 	// char_matrix();
 	// star_func();
 	// mouse_demo();
-	rainbow();
+	// rainbow();
+	jump_and_jump();
 	return 0;
 }
